@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+
+<realty>
+    <location>
+        <country>Україна</country>
+        <region>ХХХХХХХХХ область</region>
+        <district>ХХХХХХХХХ район</district>
+        <locality-name>місто HHHHHHH</locality-name>
+        <sub-locality-name>Центральний</sub-locality-name>
+        <non-admin-sub-locality>Центр</non-admin-sub-locality>
+        <address>UUUUUUUU вул., д. NN</address>
+        <direction>FFFFFFFFF шосе</direction>
+    </location>Ещё и не особо удачну
+    <location>
+        <country>Україна</country>
+        <region>YYYYYYYYY область</region>
+        <district>NNNNNNNNNN район</district>
+        <locality-name>село MMMMMMMM</locality-name>
+        <direction>LLLLLLLLLL шосе</direction>
+        <distance>10</distance>
+    </location>
+</realty>
